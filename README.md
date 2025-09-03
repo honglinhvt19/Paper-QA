@@ -110,7 +110,7 @@ streamlit run app.py
 
 4. All vector data, tables, and images are automatically deleted when the app is closed.
 
-## 🔮 Roadmap
+🔮 Roadmap
 - Support for multiple papers simultaneously.
 
 - Add a domain-specific ranker (e.g., SciBERT cross-encoder).
