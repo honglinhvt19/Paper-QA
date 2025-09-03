@@ -1,5 +1,5 @@
-📑 Research Paper Q&A with RAG
-🔍 Introduction
+###📑 Research Paper Q&A with RAG
+##🔍 Introduction
 This project implements a Retrieval-Augmented Generation (RAG) system to:
 
 Extract content from research papers (PDFs).
