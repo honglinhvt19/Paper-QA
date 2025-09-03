@@ -1,0 +1,16 @@
+streamlit>=1.34.0
+langchain>=0.2.10
+langchain-community>=0.2.10
+langchain-text-splitters>=0.2.2
+chromadb>=0.5.5
+sentence-transformers>=3.0.1
+unstructured[local-inference,pdf]>=0.15.7
+pypdf>=4.2.0
+Pillow>=10.3.0
+pdfminer.six>=20231228
+pandas>=2.2.2
+numpy>=1.26.4
+haystack-ai>=2.1.0
+transformers>=4.42.0
+torch>=2.2.1
+langchain-ollama>=0.1.0
